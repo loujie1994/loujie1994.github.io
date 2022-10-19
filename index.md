@@ -209,10 +209,6 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ol>
 </div>
 
-<!-- ## Teaching
-
-- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), 2021 and 2022 -->
-
 ## Services
 
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
@@ -258,6 +254,29 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security"><autocolor>IEEE Transactions on Information Forensics and Security (TIFS)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/1098111x"><autocolor>International Journal of Intelligent Systems (IJIS)</autocolor></a></li>
+</ul>
+
+## Invited Talks 
+  
+<ul style="margin:0 0 5px;">
+ <li>Revisiting Transferability of Targeted Adversarial Images, AI TIME, 2022-02-17. <a href="https://www.bilibili.com/video/BV1X44y1H7S4?spm_id_from=333.999.0.0">[Video (in Chinese)]</a> <a href="./assets/img/AITIME_ZhengyuZhao.pdf">[Slides]</a> </li>
+<li>Transferable and Stealthy Adversarial Images, Alibaba Turing Lab, 2022-03-03. <a href="images/AIibaba_ZhengyuZhao.pdf">[Slides]</a> </li> 
+</ul>
+
+## Honors & Awards 
+<ul style="margin:0 0 5px;">
+<li>Participant of Doctoral Consortium, CVPR 2021</li>
+<li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
+<li>Outstanding Reviewer (top 5%), BMVC 2020</li>
+<li>Student Travel Grant, ACM MM 2018 & 2019</li>  
+</ul>  
+
+## Miscellaneous
+<ul style="margin:0 0 5px;">
+<li>I like simple yet effective research ideas.</li>
+<li>I admire <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a>, who dedicates himself to meaningful evaluation of adversarial robustness.</li>
+<li>I love music, particularly Chinese music.</li>
+  
 <!--
 ## Contact
 **Address:** [CISPA Helmholtz Center for Information Security, Stuhlsatzenhaus 5, 66123 Saarbrücken, Germany](https://cispa.de/en)
