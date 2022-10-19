@@ -53,7 +53,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <a href="https://github.com/ZhengyuZhao/Targeted-Tansfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://nips.cc/virtual/2021/poster/26087" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://zhuanlan.zhihu.com/p/512550358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a>
-      <a href="https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Top-1 targeted transfer attack on ARES Leaderboard</a>
+      <a href="https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Rank Top-1 on ARES Leaderboard</a>
     </div>
   </div>
 </div>
@@ -73,8 +73,8 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>Extended journal version, 2021.</em> <em>British Machine Vision Conference <strong>(BMVC)</strong>, 2020.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" role="button" target="_blank" style="font-size:12px;">BMVC version</a>
+      <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC version</a>
       <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
