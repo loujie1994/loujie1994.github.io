@@ -259,7 +259,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 ## Invited Talks 
   
 <ul style="margin:0 0 5px;">
- <li>Revisiting Transferability of Targeted Adversarial Images, AI TIME, 2022-02-17. <a href="https://www.bilibili.com/video/BV1X44y1H7S4?spm_id_from=333.999.0.0">[Video (in Chinese)]</a> <a href="./assets/img/AITIME_ZhengyuZhao.pdf">[Slides]</a> </li>
+ <li>Transferability of Targeted Attacks, AI TIME, 2022-02-17. <a href="https://www.bilibili.com/video/BV1X44y1H7S4?spm_id_from=333.999.0.0">[Video (in Chinese)]</a> <a href="./assets/img/AITIME_ZhengyuZhao.pdf">[Slides]</a> </li>
 <li>Transferable and Stealthy Adversarial Images, Alibaba Turing Lab, 2022-03-03. <a href="images/AIibaba_ZhengyuZhao.pdf">[Slides]</a> </li> 
 </ul>
 
@@ -274,7 +274,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 ## Miscellaneous
 <ul style="margin:0 0 5px;">
 <li>I like simple yet effective research ideas.</li>
-<li>I admire <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a>, who dedicates himself to meaningful evaluation of adversarial robustness.</li>
+<li>I admire <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a>, who is devoted to meaningful evaluation of adversarial robustness.</li>
 <li>I love music, particularly Chinese music.</li>
   
 <!--
