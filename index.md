@@ -69,7 +69,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
-      <div class="author">strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
       <div class="periodical"><em>Extended journal version, 2021.</em> <em>British Machine Vision Conference <strong>(BMVC)</strong>, 2020.</em>
       </div>
     <div class="links">
