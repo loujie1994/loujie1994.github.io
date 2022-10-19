@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, working with [Dr. Yang Zhang](https://yangzhangalmo.github.io/) and [Prof. Michael Backes](https://cispa.de/en/about/director-page).
+I am a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, working with [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/).
 I received my PhD from [Radboud University](https://www.ru.nl/english/), The Netherlands, under the supervision of [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
-My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various security (e.g. adversarial examples and data poisoning) and privacy (e.g. membership inference) attacks.
+My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various security (e.g. adversarial example and data poisoning) and privacy (e.g. membership inference) attacks.
 
 
 ## News
