@@ -24,7 +24,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">PhD Thesis</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -41,7 +41,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/google.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/google.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -64,7 +64,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/illustration.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">BMVC</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -86,7 +86,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/perc.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/perc.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -107,7 +107,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/adired.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ACM MM</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -128,7 +128,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/loss_t.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CCS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -150,7 +150,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/screengleaning.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NDSS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -171,7 +171,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/umap.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/umap.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">UMAP</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -191,7 +191,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICMR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
