@@ -260,7 +260,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   
 <ul style="margin:0 0 5px;">
  <li>Transferability of Targeted Attacks, AI TIME, 2022-02-17. <a href="https://www.bilibili.com/video/BV1X44y1H7S4?spm_id_from=333.999.0.0">[Video (in Chinese)]</a> <a href="./assets/img/AITIME_ZhengyuZhao.pdf">[Slides]</a> </li>
-<li>Transferable and Stealthy Adversarial Images, Alibaba Turing Lab, 2022-03-03. <a href="images/AIibaba_ZhengyuZhao.pdf">[Slides]</a> </li> 
+<li>Transferable and Stealthy Adversarial Images, Alibaba Turing Lab, 2022-03-03. <a href="./assets/img/AIibaba_ZhengyuZhao.pdf">[Slides]</a> </li> 
 </ul>
 
 ## Honors & Awards 
