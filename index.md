@@ -215,7 +215,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://2019.acmmm.org/index.html"><autocolor>ACM International Conference on Multimedia (ACM MM) 2019</autocolor></a>, Poster Session Co-Chair</li>
-  <li><a href="https://multimediaeval.github.io/"><autocolor>Multimedia Evaluation Benchmark (MediaEval)</autocolor></a>, Task Co-Organizer of of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> (2018-2020) and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> (2018, 2019)</li>
+  <li><a href="https://multimediaeval.github.io/"><autocolor>Multimedia Evaluation Benchmark (MediaEval)</autocolor></a>, Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> (2018-2020) and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> (2018, 2019)</li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Area Chair</h4>
