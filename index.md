@@ -74,8 +74,8 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC version</a>
       <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC version</a>
     </div>
   </div>
 </div>
