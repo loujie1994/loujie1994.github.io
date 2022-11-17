@@ -41,6 +41,26 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/transferEval.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/">Towards Good Practices in Evaluating Transfer Adversarial Attacks</a></div>
+      <div class="author"><strong>Zhengyu Zhao*</strong>, Hanwei Zhang*, Renjue Li*, Ronan Sicre, Laurent Amsaleg, Michael Backes</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2022.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>  
+  
+<br>
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/google.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
