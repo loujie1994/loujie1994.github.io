@@ -45,7 +45,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
             <abbr class="badge">arXiv</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/">Towards Good Practices in Evaluating Transfer Adversarial Attacks</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2211.09565">Towards Good Practices in Evaluating Transfer Adversarial Attacks</a></div>
       <div class="author"><strong>Zhengyu Zhao*</strong>, Hanwei Zhang*, Renjue Li*, Ronan Sicre, Laurent Amsaleg, Michael Backes</div>
       <div class="periodical"><em><strong>arXiv</strong>, 2022.</em>
       </div>
