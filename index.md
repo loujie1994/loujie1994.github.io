@@ -9,6 +9,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 
 ## News
+- **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022</strong>!
 - **07/2022** I will serve as a Senior Program Committee (SPC) Member for <strong>AAAI 2023</strong>!
 - **02/2022** I successfully defend my PhD dissertation!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
@@ -287,7 +288,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <ul style="margin:0 0 5px;">
 <li>Doctoral Consortium Award, CVPR 2021</li>
 <li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
-<li>Outstanding Reviewer (top 5%), BMVC 2020</li>
+<li>Outstanding Reviewer (~top 5%), BMVC 2020 & 2022</li>
 <li>Student Travel Grant, ACM MM 2018 & 2019</li>  
 </ul>  
 
