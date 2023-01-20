@@ -36,8 +36,26 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-
 <br>
+
+<!-- <li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ICLR</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
+      <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://anonymous.4open.science/r/INF-C277/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>  
+<br>     -->
   
 <li>
 <div class="pub-row">
@@ -56,8 +74,27 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
+<br>  
   
-<br>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CCS</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2208.14933">Membership Inference Attacks by Exploiting Loss Trajectory</a></div>
+      <div class="author">Yiyong Liu, <strong>Zhengyu Zhao</strong>, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2022.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+<br> 
   
 <li>
 <div class="pub-row">
@@ -79,9 +116,28 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-
 <br>
-
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">NDSS</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
+      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
+      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+  
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -100,8 +156,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     </div>
   </div>
 </div>
-</li>
-  
+</li> 
 <br>
 
 <li>
@@ -122,91 +177,6 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-
-<br>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">ACM MM</abbr>
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-  
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CCS</abbr>
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2208.14933">Membership Inference Attacks by Exploiting Loss Trajectory</a></div>
-      <div class="author">Yiyong Liu, <strong>Zhengyu Zhao</strong>, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2022.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<br>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">NDSS</abbr>
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
-      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
-      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-<br>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/umap.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">UMAP</abbr>
-  </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://dl.acm.org/doi/10.1145/3450613.3456832">Pivoting Image-based Profiles Toward Privacy: Inhibiting Malicious Profiling with Adversarial Additions</a></div>
-      <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>ACM Conference on User Modeling, Adaptation and Personalization <strong>(UMAP)</strong>, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/liuzrcc/Image-Set-Profile-Pivot" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
 <br>
 
 <li>
@@ -225,7 +195,47 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     </div>
   </div>
 </div>
+</li>  
+<br>
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ACM MM</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
+    </div>
+  </div>
+</div>
 </li>
+<!-- <br> -->
+
+<!-- <li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/umap.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">UMAP</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://dl.acm.org/doi/10.1145/3450613.3456832">Pivoting Image-based Profiles Toward Privacy: Inhibiting Malicious Profiling with Adversarial Additions</a></div>
+      <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>ACM Conference on User Modeling, Adaptation and Personalization <strong>(UMAP)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/liuzrcc/Image-Set-Profile-Pivot" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+<br> -->
 
 </ol>
 </div>
