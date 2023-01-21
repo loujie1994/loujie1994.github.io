@@ -47,7 +47,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
       <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
-      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <span style="color:#ff0000;"><strong>(Spotlight</span>, top 8%)</strong>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <strong>(<span style="color:#ff0000;">Spotlight</span>, top 8%)</strong>
       </div>
     <div class="links">
       <a href="https://anonymous.4open.science/r/INF-C277/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
