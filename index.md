@@ -38,7 +38,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </li>
 <br>
 
-<!-- <li>
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
@@ -47,7 +47,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
       <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
-      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023. <strong>(Spotlight, top 8%)</strong></em>
       </div>
     <div class="links">
       <a href="https://anonymous.4open.science/r/INF-C277/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -55,7 +55,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>     -->
+<br>
   
 <li>
 <div class="pub-row">
