@@ -28,7 +28,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">PhD Thesis</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong></div>
       <div class="periodical"><em>Radboud University, 2022.</em>
@@ -44,7 +44,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICLR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
       <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <strong>(<span style="color:#ff0000;">Spotlight</span>, top 8%)</strong>
@@ -60,10 +60,29 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/ISS.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression</a></div>
+      <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/liuzrcc/ImageShortcutSqueezing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>  
+<br>  
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/transferEval.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">arXiv</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2211.09565">Towards Good Practices in Evaluating Transfer Adversarial Attacks</a></div>
       <div class="author"><strong>Zhengyu Zhao*</strong>, Hanwei Zhang*, Renjue Li*, Ronan Sicre, Laurent Amsaleg, Michael Backes</div>
       <div class="periodical"><em><strong>arXiv</strong>, 2022.</em>
@@ -82,7 +101,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CCS</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2208.14933">Membership Inference Attacks by Exploiting Loss Trajectory</a></div>
       <div class="author">Yiyong Liu, <strong>Zhengyu Zhao</strong>, Michael Backes, Yang Zhang</div>
       <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2022.</em>
@@ -102,7 +121,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/google.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2012.11207">On Success and Simplicity: A Second Look at Transferable Targeted Attacks</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
@@ -124,7 +143,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">BMVC</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
       <div class="periodical"><em>Extended journal version, 2021.</em>
@@ -145,7 +164,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NDSS</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
       <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
       <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
@@ -165,7 +184,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/perc.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/1911.02466">Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
@@ -185,7 +204,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICMR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/1901.10332">Who's Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval</a></div>
       <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
       <div class="periodical"><em>ACM International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, 2019.</em>
@@ -204,7 +223,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ACM MM</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
       <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
@@ -224,7 +243,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
     <img src="./assets/img/umap.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">UMAP</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://dl.acm.org/doi/10.1145/3450613.3456832">Pivoting Image-based Profiles Toward Privacy: Inhibiting Malicious Profiling with Adversarial Additions</a></div>
       <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
       <div class="periodical"><em>ACM Conference on User Modeling, Adaptation and Personalization <strong>(UMAP)</strong>, 2021.</em>
