@@ -22,7 +22,7 @@
 
 
 
-blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 2px; font-size: 1.2rem; }
+blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 2px; padding: 0.5em 2px; font-size: 1.2rem; }
 
 
 .publications { margin-top: 2rem; }
