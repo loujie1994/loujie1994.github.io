@@ -64,7 +64,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
             <abbr class="badge">arXiv</abbr>
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2301.13838">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression</a></div>
       <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
