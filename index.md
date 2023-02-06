@@ -11,6 +11,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 If you are interested in doing a PhD/Master in AI Security and Privacy, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. -->
 
 ## News
+- **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022</strong>!
 - **07/2022** I will serve as a Senior Program Committee (SPC) Member for <strong>AAAI 2023</strong>!
 - **02/2022** I successfully defend my PhD dissertation!
