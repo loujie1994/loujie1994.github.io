@@ -7,7 +7,7 @@ I am a postdoc at [CISPA Helmholtz Center for Information Security](https://cis
 I received my PhD from [Radboud University](https://www.ru.nl/english/), The Netherlands, under the supervision of [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
 My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various security (e.g. adversarial example and data poisoning) and privacy (e.g. membership inference) attacks.
 
-<!-- I will be joining Xi'an Jiaotong University (XJTU, China) as a tenure-track research faculty (equivalent to associate professor) in the Faculty of Electronic and Information Engineering, starting in the fall of 2023. 
+<!-- I will be joining Xi'an Jiaotong University (XJTU, China) as a tenure-track research faculty (Associate Professor) in the Faculty of Electronic and Information Engineering, starting in the fall of 2023. 
 If you are interested in doing a PhD/Master in AI Security and Privacy, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. -->
 
 ## News
