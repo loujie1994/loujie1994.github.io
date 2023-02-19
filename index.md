@@ -264,7 +264,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Organization Committee</h4>
+<h4 style="margin:0 10px 0;">Conference Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
   <li>Poster Session Co-Chair, <a href="https://2019.acmmm.org/index.html"><autocolor>ACM International Conference on Multimedia (ACM MM) 2019</autocolor></a></li>
