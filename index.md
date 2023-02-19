@@ -5,15 +5,15 @@ layout: homepage
 ## About Me
 I am a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, working with [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/).
 I received my PhD from [Radboud University](https://www.ru.nl/english/), The Netherlands, under the supervision of [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
-My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various security (e.g. adversarial example and data poisoning) and privacy (e.g. membership inference) attacks.
+My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various attacks, e.g., (test-time) adversarial examples and (training-time) data poisons.
 
-I will be joining [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm), China, as a tenure-track research faculty (Associate Professor) in the Faculty of Electronic and Information Engineering, starting in the fall of 2023. 
+I will be joining [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm), China, as a tenure-track research faculty (equivalent to Associate Professor) in the Faculty of Electronic and Information Engineering, starting in the fall of 2023. 
 If you are interested in doing a PhD/Master in AI Security and Privacy, please reach out! A strong background in machine learning, cyber security, or a related field is a plus.
 
 ## News
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022</strong>!
-- **07/2022** I will serve as a Senior Program Committee (SPC) Member for <strong>AAAI 2023</strong>!
+- **07/2022** I will serve as a Senior Program Committee (SPC) Member of <strong>AAAI 2023</strong>!
 - **02/2022** I successfully defend my PhD dissertation!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
 - **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)!
