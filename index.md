@@ -53,7 +53,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <strong>(<span style="color:#ff0000;">Spotlight</span>, top 8%)</strong>
       </div>
     <div class="links">
-      <a href="https://anonymous.4open.science/r/INF-C277/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
