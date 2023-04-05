@@ -322,7 +322,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 <ul style="margin:0 0 5px;">
 <li>Doctoral Consortium Award, CVPR 2021</li>
 <li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
-<li>Outstanding Reviewer of BMVC 2020, BMVC 2022, AISTATS 2023</li>
+<li>Outstanding Reviewer of BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
 <li>Student Travel Grant, ACM MM 2018 & 2019</li>  
 </ul>  
 
