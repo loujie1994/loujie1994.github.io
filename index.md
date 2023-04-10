@@ -266,7 +266,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 
 <ul style="margin:0 0 5px;">
   <li>Poster Session Co-Chair of ACM MM 2019</li>
-  <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> (2018-2020) and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> (2018, 2019) tasks of <a href="https://multimediaeval.github.io/">Multimedia Evaluation Benchmark (MediaEval)</a></li>
+  <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval Benchmark 2018-2020</a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
