@@ -264,7 +264,27 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Organization Committee</h4>
+<ul style="margin:0 0 5px;">
+  <li>Poster Session Co-Chair of ACM MM 2019</li>
+  <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> (2018-2020) and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> (2018, 2019) tasks of <a href="https://multimediaeval.github.io/">Multimedia Evaluation Benchmark (MediaEval)</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li>Conference Senior Program Committee/Area Chair of AAAI 2023</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Conference Program Committee</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>Conference Program Committee ICLR 2023, NeurIPS 2023, CVPR 2022-2023, ICCV 2023, BMVC 2020-2023, AISTATS 2023, ECCV 2022, AAAI 2022, FAccT 2022</li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li>Journal Reviewer of IEEE Transactions on Information Forensics and Security, Pattern Recognition, International Journal of Intelligent Systems</li>
+</ul>
+
+
+<!-- <h4 style="margin:0 10px 0;">Conference Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
   <li>Poster Session Co-Chair, <a href="https://2019.acmmm.org/index.html"><autocolor>ACM International Conference on Multimedia (ACM MM) 2019</autocolor></a></li>
@@ -307,7 +327,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
   <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security"><autocolor>IEEE Transactions on Information Forensics and Security (TIFS)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/1098111x"><autocolor>International Journal of Intelligent Systems (IJIS)</autocolor></a></li>
-</ul>
+</ul> -->
 
 ## Invited Talks 
   
