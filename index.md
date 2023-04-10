@@ -13,8 +13,8 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 ## News
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022</strong>!
-- **07/2022** I will serve as a Senior Program Committee (SPC) Member of <strong>AAAI 2023</strong>!
-- **02/2022** I successfully defend my PhD dissertation!
+- **07/2022** I am a Senior Program Committee (SPC) Member of <strong>AAAI 2023</strong>!
+- **02/2022** I become Dr.Zhao!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
 - **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)!
 - **05/2021** I participate in the [Doctoral Consortium](https://cvpr2021.thecvf.com/node/46) of <strong>CVPR 2021</strong>!
