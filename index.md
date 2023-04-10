@@ -270,15 +270,15 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>Conference Senior Program Committee/Area Chair of AAAI 2023</li>
+  <li>Senior Program Committee/Area Chair of AAAI 2023</li>
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>Conference Program Committee of ICLR 2023, NeurIPS 2023, CVPR 2022-2023, ICCV 2023, BMVC 2020-2023, AISTATS 2023, ECCV 2022, AAAI 2022, FAccT 2022</li>
+  <li>Program Committee of ICLR 2023, NeurIPS 2023, CVPR 2022-2023, ICCV 2023, BMVC 2020-2023, AISTATS 2023, ECCV 2022, AAAI 2022, FAccT 2022</li>
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li>Journal Reviewer of IEEE Transactions on Information Forensics and Security, Pattern Recognition, International Journal of Intelligent Systems</li>
+  <li>Reviewer of IEEE Transactions on Information Forensics and Security, Pattern Recognition, International Journal of Intelligent Systems</li>
 </ul>
 
 ## Invited Talks 
