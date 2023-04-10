@@ -273,61 +273,13 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
   <li>Conference Senior Program Committee/Area Chair of AAAI 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Program Committee</h4>
-
 <ul style="margin:0 0 5px;">
-  <li>Conference Program Committee ICLR 2023, NeurIPS 2023, CVPR 2022-2023, ICCV 2023, BMVC 2020-2023, AISTATS 2023, ECCV 2022, AAAI 2022, FAccT 2022</li>
+  <li>Conference Program Committee of ICLR 2023, NeurIPS 2023, CVPR 2022-2023, ICCV 2023, BMVC 2020-2023, AISTATS 2023, ECCV 2022, AAAI 2022, FAccT 2022</li>
 </ul>
 
 <ul style="margin:0 0 20px;">
   <li>Journal Reviewer of IEEE Transactions on Information Forensics and Security, Pattern Recognition, International Journal of Intelligent Systems</li>
 </ul>
-
-
-<!-- <h4 style="margin:0 10px 0;">Conference Organization Committee</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>Poster Session Co-Chair, <a href="https://2019.acmmm.org/index.html"><autocolor>ACM International Conference on Multimedia (ACM MM) 2019</autocolor></a></li>
-  <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> (2018-2020) and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> (2018, 2019), <a href="https://multimediaeval.github.io/"><autocolor>Multimedia Evaluation Benchmark (MediaEval)</autocolor></a></li>
-</ul>
-
-<!-- <h4 style="margin:0 10px 0;">Area Chair</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
-</ul> -->
-
-<h4 style="margin:0 10px 0;">Conference Senior Program Committee/Area Chair</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2023</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Conference Program Committee</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2023</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2023</autocolor></a></li>
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022-2023</autocolor></a></li>
-  <li><a href="https://iccv2023.thecvf.com/"><autocolor>IEEE International Conference on Computer Vision (ICCV) 2023</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-  <li><a href="https://bmvc2022.org/"><autocolor>British Machine Vision Conference (BMVC) 2020-2023</autocolor></a></li>
-<!--   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML) 2021-2022</autocolor></a></li> -->
-  <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2022</autocolor></a></li>
-  <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
-  <li><a href="https://facctconference.org/2022/"><autocolor>ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2022</autocolor></a></li>
-
-<!--   <li><a href="https://ijcai-22.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2022</autocolor></a></li> -->
-<!--   <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2022</autocolor></a></li>   -->
-</ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security"><autocolor>IEEE Transactions on Information Forensics and Security (TIFS)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
-  <li><a href="https://onlinelibrary.wiley.com/journal/1098111x"><autocolor>International Journal of Intelligent Systems (IJIS)</autocolor></a></li>
-</ul> -->
 
 ## Invited Talks 
   
