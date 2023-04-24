@@ -69,7 +69,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2301.13838">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression</a></div>
       <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2023.</em>
       </div>
     <div class="links">
       <a href="https://github.com/liuzrcc/ImageShortcutSqueezing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
