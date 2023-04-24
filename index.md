@@ -144,12 +144,12 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">BMVC</abbr>
+            <abbr class="badge">TIFS</abbr>
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
-      <div class="periodical"><em>Extended journal version, 2021.</em>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
