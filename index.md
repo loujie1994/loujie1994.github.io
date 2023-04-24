@@ -64,7 +64,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ISS.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">arXiv</abbr>
+            <abbr class="badge">ICML</abbr>
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2301.13838">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression</a></div>
