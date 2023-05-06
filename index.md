@@ -270,7 +270,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>Senior Program Committee/Area Chair of AAAI 2023</li>
+  <li>Senior Program Committee of AAAI 2023</li>
 </ul>
 
 <ul style="margin:0 0 5px;">
