@@ -278,7 +278,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 </ul>
 
 <ul style="margin:0 0 20px;">
-  <li>Reviewer of IEEE Transactions on Information Forensics and Security, Pattern Recognition, International Journal of Intelligent Systems</li>
+  <li>Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Forensics and Security (TIFS), Pattern Recognition, International Journal of Intelligent Systems</li>
 </ul>
 
 ## Invited Talks 
