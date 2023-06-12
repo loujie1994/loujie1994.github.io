@@ -282,7 +282,6 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 </ul>
 
 ## Invited Talks 
-  
 <ul style="margin:0 0 5px;">
 <li>Computer Vision in Adversarial Scenarios, LIS - Ecole Centrale Marseille, 2023-03-03. <a href="./assets/img/Talk_Marseille.pdf">[Slides]</a> </li> 
 <li>Computer Vision against Adversarial Perturbations, Hong Kong PolyU, 2022-12-16. <a href="./assets/img/PolyU_ZhengyuZhao.pdf">[Slides]</a> </li> 
@@ -297,6 +296,12 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 <li>Outstanding Reviewer of BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
 <li>Student Travel Grant, ACM MM 2018 & 2019</li>  
 </ul>  
+
+## Teaching
+<ul style="margin:0 0 5px;">
+<li>Teaching Assistant, <a href="https://cms.cispa.saarland/amlm2023/">Advanced Lecture: Attacks Against Machine Learning Models</a> (2023 Summer), Saarland University</li>
+</ul>  
+
 
 ## Miscellaneous
 <ul style="margin:0 0 5px;">
