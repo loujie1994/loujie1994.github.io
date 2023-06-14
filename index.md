@@ -58,7 +58,26 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
   </div>
 </div>
 </li>  
-<br>   
+<br>  
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2306.07754">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</a></div>
+      <div class="author">Yihan Ma, <strong>Zhengyu Zhao</strong>, Xinlei He, Zheng Li, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+<!--     <div class="links">
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div> -->
+  </div>
+</div>
+</li>  
+<br>  
   
  <li>
 <div class="pub-row">
