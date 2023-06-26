@@ -71,9 +71,9 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
       <div class="author">Yihan Ma, <strong>Zhengyu Zhao</strong>, Xinlei He, Zheng Li, Michael Backes, Yang Zhang</div>
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
-<!--     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div> -->
+    <div class="links">
+      <a href="https://blog.metaphysic.ai/personalized-protection-against-stable-diffusion-deepfaking/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Metaphysic.ai Blog, by Martin Anderson</a>
+    </div>
   </div>
 </div>
 </li>  
