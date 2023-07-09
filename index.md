@@ -182,12 +182,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 </ol>
 </div>
 
-## Services
-<ul style="margin:0 0 5px;">
-<li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
-<li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
-</ul>
-
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
 <li>2023.06.07 @ GLSVLSI, Knoxville, TN, USA. Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices </li> 
@@ -201,6 +195,12 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <li>Top Ten Outstanding Youth of School of Electronic Information Engineering (Tianjin University), 2018</li>
 <li>China National Scholarship, 2017 & 2018</li>
 </ul>  
+
+## Services
+<ul style="margin:0 0 5px;">
+<li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
+<li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
+</ul>
 
 ## Teaching
 <ul style="margin:0 0 5px;">
