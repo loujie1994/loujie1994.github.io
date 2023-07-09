@@ -25,14 +25,12 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   <div id="lou" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 15px;">
       <div class="title"><a href="https://dl.acm.org/doi/10.1145/3583781.3590220">Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices</a></div>
       <div class="author"><strong>Jie lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
-      <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2023.</em>
-      </div>
-    <div class="links">
+      <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2023.</em></div>
+      <div class="links">
     </div>
   </div>
-</div>
 </li>  
-<br> 
+<br>
 
 <li>
 <div class="pub-row">
@@ -40,48 +38,36 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   <div id="lou" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9930136">Memristive Devices for Time Domain Compute-in-Memory</a></div>
       <div class="author">Florian Freye, <strong>Jie lou</strong>, Christopher Bengel, Stephan Menzel, Stefan Wiefels, Tobias Gemmeke</div>
-      <div class="periodical"><em>IEEE Journal of Exploratory Solid-State Computational Devices and Circuits (JxCDC), 2022.</em>
-      </div>
-    <div class="links">
+      <div class="periodical"><em>IEEE Journal of Exploratory Solid-State Computational Devices and Circuits (JxCDC), 2022.</em></div>
+      <div class="links">
     </div>
   </div>
-</div>
 </li>  
 <br>
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">ICLR</abbr>
   </div>
   <div id="lou" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9911382">All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks with 1.05 POPS/W Energy Efficiency</a></div>
       <div class="author"><strong>Jie Lou</strong>, Christian Lanius, Florian Freye, Tim Stadtmann, Tobias Gemmeke</div>
-      <div class="periodical"><em>IEEE European Solid State Circuits Conference (ESSCIRC), 2022.</em>
-      </div>
-    <div class="links">
+      <div class="periodical"><em>IEEE European Solid State Circuits Conference (ESSCIRC), 2022.</em></div>
+      <div class="links">
     </div>
   </div>
-</div>
 </li>
 <br>
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">ICLR</abbr>
   </div>
   <div id="lou" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9806215">Discrete Steps towards Approximate Computing</a></div>
       <div class="author">Michael Gansen, <strong>Jie Lou</strong>, Florian Freye, Tobias Gemmeke, Farhad Merchant, Albert Zeyer, Mohammad Zeineldeen, Ralf Schluter, Xin Fan</div>
-      <div class="periodical"><em>International Symposium on Quality Electronic Design (ISQED), 2022.</em>
-      </div>
-    <div class="links">
+      <div class="periodical"><em>International Symposium on Quality Electronic Design (ISQED), 2022.</em></div>
+      <div class="links">
     </div>
   </div>
-</div>
 </li>
 <!-- <br> -->
 </ol>
@@ -104,6 +90,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <ul style="margin:0 0 5px;">
 <li>Tianjin University Outstanding Graduates, 2019</li>
 <li>Tianjin University Student Science Award, 2018</li>
+<li>Top Ten Outstanding Youth of School of Electronic Information Engineering (Tianjin University), 2018</li>
 <li>China National Scholarship, 2017 & 2018</li>
 </ul>  
 
