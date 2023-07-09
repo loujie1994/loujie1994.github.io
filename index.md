@@ -19,7 +19,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <div class="publications">
 <ol class="bibliography">
 
-<h4 style="margin:0 10px 0;">PhD</h4>
+<h4 style="margin:0 20px 0;">During PhD</h4>
 
 <li>
 <div class="pub-row">
@@ -69,7 +69,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
 </li>
 
-<h4 style="margin:0 10px 0;">Master</h4>
+<h4 style="margin:0 20px 0;">During Master</h4>
 
 <li>
 <div class="pub-row">
@@ -78,6 +78,102 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
       <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838819334000">Combined synthesis methods for producing LaNbO4 ceramics and investigation of microwave dielectric properties based on complex chemical bond theory</a></div>
       <div class="author">Mi Xiao, Peng Zhang, <strong>Jie Lou</strong>, Yanshuang Wei, Ping Zhang</div>
       <div class="periodical"><em>Journal of Alloys and Compounds, 2019.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://link.springer.com/article/10.1007/s10854-018-0168-9">Crystal structure and microwave dielectric properties of low-permittivity Sr2MgSi2O7 ceramic</a></div>
+      <div class="author">Mi Xiao, Yanshuang Wei, Hongrui Sun, <strong>Jie Lou</strong>, Ping Zhang</div>
+      <div class="periodical"><em>Journal of Materials Science: Materials in Electronics, 2018.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818341458">Structure and microwave dielectric properties of MgZr(Nb1−xSbx)2O8 (0≤x≤0.1) ceramics</a></div>
+      <div class="author">Mi Xiao, Susu He, <strong>Jie Lou</strong>, Ping Zhang</div>
+      <div class="periodical"><em>Journal of Alloys and Compounds, 2018.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://link.springer.com/article/10.1007/s10854-018-9945-8">Characteristics and microwave dielectric properties of low loss MgZr0.85Sn0.15Nb2O8 ceramics</a></div>
+      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Ping Zhang</div>
+      <div class="periodical"><em>Journal of Materials Science: Materials in Electronics, 2018.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0272884218323022">Influence of Ge4+ substitution for Zr4+ on the microwave dielectric properties of Mg(Zr1-xGex)Nb2O8 (0≤x≤0.4) ceramics</a></div>
+      <div class="author">Mi Xiao, Susu He, <strong>Jie Lou</strong>, Ping Zhang</div>
+      <div class="periodical"><em>Ceramics International, 2018.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818309733">Effect of Co2+ substitution on crystal structure and microwave dielectric properties of MgZrNb2O8 ceramics</a></div>
+      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Yanshuang Wei, Susu He, Ping Zhang</div>
+      <div class="periodical"><em>Journal of Alloys and Compounds, 2018.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://link.springer.com/article/10.1007/s10854-017-7996-x">Effect of Ni2+ substitution on crystal structure and microwave dielectric properties for MgZrNb2O8 ceramics</a></div>
+      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Yanshuang Wei, Hongrui Sun, Lei Li, Ping Zhang</div>
+      <div class="periodical"><em>Journal of Materials Science: Materials in Electronics, 2018.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S027288421732206X">Crystal structure and microwave dielectric properties of MgZr1-xSnxNb2O8 ceramics</a></div>
+      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Yanshuang Wei, Ping Zhang</div>
+      <div class="periodical"><em>Ceramics International, 2017.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0272884217318084">Crystal Structure and Microwave Dielectric Properties of Ta5+ Substituted MgZrNb2O8 Ceramics</a></div>
+      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Ziqi Zhou, Qingqing Gu, Yanshuang Wei, Ping Zhang</div>
+      <div class="periodical"><em>Ceramics International, 2017.</em></div>
       <div class="links">
     </div>
   </div>
