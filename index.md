@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD student at [Chair of Integrated Digital Systems and Circuit Design](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I am a PhD student at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
 I received my M.S. from Tianjin University, China in 2019 and B.S. from Northeast Electric Power University, China in 2016.
 
 My research focuses on time-domain compute-in-memory and its associated energy-efficient hardware design for machine learning and digital signal processing applications.
@@ -11,8 +11,8 @@ I am proficient in ASIC design flow from transistor level design to front-end RT
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
-- **06/07/2023** I presented our work at the GLSVLSI in Knoxville, TN, USA!
-- **09/22/2022** I presented our work at the ESSCIRC in Milan, Italy!
+- **06/07/2023** I presented our scalable TDCIM BNN work at the GLSVLSI in Knoxville, TN, USA!
+- **09/22/2022** I presented our all-digital TDCIM BNN work at the ESSCIRC in Milan, Italy!
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=hc48V2MAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
