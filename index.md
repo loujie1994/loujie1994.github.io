@@ -19,7 +19,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <div class="publications">
 <ol class="bibliography">
 
-<h4 style="margin:0 10px 0; font-size: 12px; color: red;">During PhD</h4>
+<h4 style="margin:0 10px 0; font-size: 24px;">During PhD</h4>
 
 <li>
 <div class="pub-row">
@@ -69,7 +69,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
 </li>
 
-<h4 style="margin:0 10px 0; font-size: 12px; color: red;">During Master</h4>
+<h4 style="margin:0 10px 0; font-size: 24px;">During Master</h4>
 
 <li>
 <div class="pub-row">
