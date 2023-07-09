@@ -19,6 +19,8 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <div class="publications">
 <ol class="bibliography">
 
+<h4 style="margin:0 10px 0;">PhD</h4>
+
 <li>
 <div class="pub-row">
   </div>
@@ -62,6 +64,20 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9806215">Discrete Steps towards Approximate Computing</a></div>
       <div class="author">Michael Gansen, <strong>Jie Lou</strong>, Florian Freye, Tobias Gemmeke, Farhad Merchant, Albert Zeyer, Mohammad Zeineldeen, Ralf Schluter, Xin Fan</div>
       <div class="periodical"><em>International Symposium on Quality Electronic Design (ISQED), 2022.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<h4 style="margin:0 10px 0;">Master</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838819334000">Combined synthesis methods for producing LaNbO4 ceramics and investigation of microwave dielectric properties based on complex chemical bond theory</a></div>
+      <div class="author">Mi Xiao, Peng Zhang, <strong>Jie Lou</strong>, Yanshuang Wei, Ping Zhang</div>
+      <div class="periodical"><em>Journal of Alloys and Compounds, 2019.</em></div>
       <div class="links">
     </div>
   </div>
