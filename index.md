@@ -30,7 +30,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
     </div>
   </div>
 </li>  
-<br>
 
 <li>
 <div class="pub-row">
@@ -43,7 +42,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
     </div>
   </div>
 </li>  
-<br>
 
 <li>
 <div class="pub-row">
@@ -56,7 +54,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
     </div>
   </div>
 </li>
-<br>
 
 <li>
 <div class="pub-row">
