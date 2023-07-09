@@ -58,7 +58,7 @@ Current, I have two chip tapeout experience includes 5 designs on 22nm FDSOI tec
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ACM MM</abbr>
   </div>
   <div id="lou" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -76,7 +76,7 @@ Current, I have two chip tapeout experience includes 5 designs on 22nm FDSOI tec
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ACM MM</abbr>
   </div>
   <div id="lou" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
