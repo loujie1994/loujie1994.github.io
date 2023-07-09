@@ -71,7 +71,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 </div>
 
 ## Services
-
 <ul style="margin:0 0 5px;">
 <li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
 <li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
@@ -96,7 +95,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <li>Teaching Assistant, Computer Arithmetic – Fundamental (2019 Summer), RWTH Aachen University</li>
 <li>Exam Assistant, Computer Arithmetic – Fundamental (2020 - 2023), RWTH Aachen University</li>
 </ul>  
-
 
 ## Miscellaneous
 <ul style="margin:0 0 5px;">
