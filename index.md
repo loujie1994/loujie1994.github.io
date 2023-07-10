@@ -70,7 +70,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
 </li>
 
-<h4 style="margin:0 10px 0; font-size: 18px;">During Master</h4>
+<h4 style="margin:0 10px 0; font-size: 18px;">During Master (microwave dielectric ceramics)</h4>
 
 <li>
 <div class="pub-row">
