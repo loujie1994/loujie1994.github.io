@@ -14,20 +14,6 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 - **2023.06.07** I presented our scalable TDCIM BNN work at the GLSVLSI in Knoxville, TN, USA!
 - **2022.09.22** I presented our all-digital TDCIM BNN work at the ESSCIRC in Milan, Italy!
 
-## Internship Experience
-<h4 style="margin:0 10px 0;">Institute of Computing Technology, Chinese Academy of Sciences, Beijing    2019.05 - 2019.07</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>Research on SV/UVM-based RISC-V processor verification method</li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Analog Devices, Inc., Beijing    2017.12 - 2018.05</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>Build module-level verification platform based on UVM</li>
-  <li>Develop testcases & covergroups that align with the verification plan</li>
-</ul>
-
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=hc48V2MAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
@@ -196,6 +182,20 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <!-- <br> -->
 </ol>
 </div>
+
+## Internship Experience
+<h4 style="margin:0 10px 0;">Institute of Computing Technology, Chinese Academy of Sciences</h4>
+<ul style="margin:0 0 5px;">
+  <li>2019.05 - 2019.07</li>
+  <li>Research on SV/UVM-based RISC-V processor verification method</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Analog Devices, Inc., Beijing</h4>
+<ul style="margin:0 0 5px;">
+  <li>2017.12 - 2018.05</li>
+  <li>Build module-level verification platform based on UVM</li>
+  <li>Develop testcases & covergroups that align with the verification plan</li>
+</ul>
 
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
