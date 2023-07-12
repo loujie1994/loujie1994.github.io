@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 I am a PhD student at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
-I received my M.S. degree in Integrated Circuit Engineering from Tianjin University, China in 2019 and B.S. degree in Electrical Engineering and Automation from Northeast Electric Power University, China in 2016.
+I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019 and 
+B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
 
-My master's research focused on circuit materials and devices, especially in the field of microwave dielectric ceramics. 
+My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
 During my PhD studies, I transitioned to the field of circuit design.
 My current research focuses on time-domain compute-in-memory and its associated energy-efficient hardware design for machine learning and digital signal processing applications.
-I am passionate about neural network accelerators and software-hardware codesign.
-I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
+I have passion for neural network accelerators and software-hardware codesign.
 
-<strong>Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.</strong>
+I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
+Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
 - **2023.06.07** I presented our scalable TDCIM BNN work at the GLSVLSI in Knoxville, TN, USA!
