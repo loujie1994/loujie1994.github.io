@@ -16,8 +16,9 @@ I am proficient in ASIC design flow from transistor level design to front-end RT
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
-- **2023.06.07** I presented our scalable TDCIM BNN work at the GLSVLSI in Knoxville, TN, USA!
-- **2022.09.22** I presented our all-digital TDCIM BNN work at the ESSCIRC in Milan, Italy!
+- **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
+- **2023.06.07** I presented our scalable TDCIM BNN work at the <strong>GLSVLSI</strong> in Knoxville, TN, USA!
+- **2022.09.22** I presented our all-digital TDCIM BNN work at the <strong>ESSCIRC</strong> in Milan, Italy!
 
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=hc48V2MAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
@@ -26,6 +27,18 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="">Automatic Generation of Cell Based Structured CIM Macros</a></div>
+      <div class="author">Christian Lanius, <strong>Jie lou</strong>, Johnson Loh, Tobias Gemmeke</div>
+      <div class="periodical"><em>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2023.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
