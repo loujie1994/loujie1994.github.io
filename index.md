@@ -8,9 +8,9 @@ I received my M.S. degree in Integrated Circuit Engineering from [Tianjin Univer
 B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
 
 My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
-During my PhD studies, I transitioned to the field of circuit design.
+During my PhD studies, I transitioned to the field of integrated circuit design.
 My current research focuses on time-domain compute-in-memory and its associated energy-efficient hardware design for machine learning and digital signal processing applications.
-I have passion for neural network accelerators and software-hardware codesign.
+I am passionate about low-power neural network accelerators and hardware-software co-design.
 
 I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
