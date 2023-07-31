@@ -18,7 +18,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 ## News
 - **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
 - **2023.06.07** I presented our scalable TDCIM BNN work at the <strong>GLSVLSI</strong> in Knoxville, TN, USA!
-- **2022.12.21** Check out the news on [Memristive Devices for Time Domain Compute-in-Memory](https://www.neurotec.org/en/aktuelles/memristive-devices-for-time-domain-compute-in-memory) in the <strong>NEUROTEC</strong> project.
+- **2022.12.21** Check out [Time Domain Compute-in-Memory](https://www.neurotec.org/en/aktuelles/memristive-devices-for-time-domain-compute-in-memory) news in <strong>NEUROTEC</strong> project.
 - **2022.09.22** I presented our all-digital TDCIM BNN work at the <strong>ESSCIRC</strong> in Milan, Italy!
 
 
