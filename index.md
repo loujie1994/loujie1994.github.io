@@ -35,7 +35,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="">An Energy-Efficient and Area-Efficient Depthwise Separable Convolution Accelerator with Minimal On-Chip Memory Access</a></div>
-      <div class="author">Yi Chen, <strong>Jie lou</strong>, Christian Lanius, Florian Freye, Johnson Loh, Tobias Gemmeke</div>
+      <div class="author">Yi Chen, <strong>Jie Lou</strong>, Christian Lanius, Florian Freye, Johnson Loh, Tobias Gemmeke</div>
       <div class="periodical"><em>IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC), 2023.</em></div>
       <div class="links">
     </div>
@@ -47,7 +47,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="">Automatic Generation of Cell Based Structured CIM Macros</a></div>
-      <div class="author">Christian Lanius, <strong>Jie lou</strong>, Johnson Loh, Tobias Gemmeke</div>
+      <div class="author">Christian Lanius, <strong>Jie Lou</strong>, Johnson Loh, Tobias Gemmeke</div>
       <div class="periodical"><em>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2023.</em></div>
       <div class="links">
     </div>
@@ -59,7 +59,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="https://dl.acm.org/doi/10.1145/3583781.3590220">Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices</a></div>
-      <div class="author"><strong>Jie lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
+      <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2023.</em></div>
       <div class="links">
     </div>
@@ -71,7 +71,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9930136">Memristive Devices for Time Domain Compute-in-Memory</a></div>
-      <div class="author">Florian Freye, <strong>Jie lou</strong>, Christopher Bengel, Stephan Menzel, Stefan Wiefels, Tobias Gemmeke</div>
+      <div class="author">Florian Freye, <strong>Jie Lou</strong>, Christopher Bengel, Stephan Menzel, Stefan Wiefels, Tobias Gemmeke</div>
       <div class="periodical"><em>IEEE Journal of Exploratory Solid-State Computational Devices and Circuits (JxCDC), 2022.</em></div>
       <div class="links">
     </div>
