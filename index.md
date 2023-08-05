@@ -16,6 +16,7 @@ I am proficient in ASIC design flow from transistor level design to front-end RT
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
+- **2023.08.04** One co-authored paper on DSC accelerator accepted by <strong>VLSI-SoC</strong>(https://sites.google.com/view/vlsi-soc2023/home).
 - **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
 - **2023.06.07** I presented our scalable TDCIM BNN work at the <strong>GLSVLSI</strong> in Knoxville, TN, USA!
 - **2022.12.21** Check out [Time Domain Compute-in-Memory](https://www.neurotec.org/en/aktuelles/memristive-devices-for-time-domain-compute-in-memory) news in <strong>NEUROTEC</strong> project.
@@ -28,6 +29,18 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="">An Energy-Efficient and Area-Efficient Depthwise Separable Convolution Accelerator with Minimal On-Chip Memory Access</a></div>
+      <div class="author">Yi Chen, <strong>Jie lou</strong>, Christian Lanius, Florian Freye, Johnson Loh, Tobias Gemmeke</div>
+      <div class="periodical"><em>IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC), 2023.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
