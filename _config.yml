@@ -5,21 +5,16 @@ affiliation: IDS, RWTH Aachen University
 affiliation_link: https://www.ids.rwth-aachen.de/en/
 email: lou@ids.rwth-aachen.de
 keywords: jie lou, lou jie, loujie, jielou, Jie Lou, Lou Jie, LouJie, JieLou
+
 google_scholar: https://scholar.google.com/citations?user=hc48V2MAAAAJ&hl=en
-# cv_link: https://files.yliu.de/Yaoyao_Liu_Resume.pdf
 # github_link: https://github.com/ZhengyuZhao
 linkedin: https://www.linkedin.com/in/jie-lou-a17bbb160/
-# twitter: https://twitter.com/JeremyZhaozy
 avatar: ./assets/img/lou.jpg
-google_analytics: UA-111540567-4
-# favicon: ./assets/img/favicon.png
-# favicon_dark: ./assets/img/favicon-dark.png
-# description: Zhengyu Zhao is a Postdoctoral researcher at CISPA Helmholtz Center for Information Security. His research lies in AI Security and Privacy, Adversarial Machine Learning, Adversarial Examples, and Computer Vision.
-# canonical: ZhengyuZhao.github.io
-# imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
-# data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
+# google_analytics: UA-111540567-4
 
-avatar: ./assets/img/personalweb_photo.jpeg
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/lou.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
