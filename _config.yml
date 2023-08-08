@@ -1,4 +1,4 @@
-title: Jie Lou(娄捷)
+title: Jie Lou
 position: PhD student
 affiliation: IDS, RWTH Aachen University
 affiliation_link: https://www.ids.rwth-aachen.de/en/
@@ -11,8 +11,8 @@ linkedin: https://www.linkedin.com/in/jie-lou-a17bbb160/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/lou.jpg
-favicon: ./assets/img/favicon.png
+# avatar: ./assets/img/lou.jpg
+# favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 exclude:
