@@ -46,7 +46,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">Automatic Generation of Structured Macros using Standard Cells – Application to CIM</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10244608">Automatic Generation of Structured Macros using Standard Cells – Application to CIM</a></div>
       <div class="author">Christian Lanius, <strong>Jie Lou</strong>, Johnson Loh, Tobias Gemmeke</div>
       <div class="periodical"><em>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2023.</em></div>
       <div class="links">
