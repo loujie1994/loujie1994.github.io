@@ -36,7 +36,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">An Energy Efficient All-Digital Time-Domain Compute-in-Memory Macro Optimized for Binary Neural Networks</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10308418">An Energy Efficient All-Digital Time-Domain Compute-in-Memory Macro Optimized for Binary Neural Networks</a></div>
       <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2023.</em></div>
       <div class="links">
@@ -271,7 +271,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 
 ## Miscellaneous
 <ul style="margin:0 0 5px;">
-<li>I am the finisher of three marathons(PB 4:17:13).</li>
+<li>I am the finisher of four marathons(PB 4:17:13).</li>
   
 <!--
 ## Contact
