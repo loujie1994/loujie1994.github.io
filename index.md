@@ -9,7 +9,7 @@ B.S. degree in Electrical Engineering and Automation from [Northeast Electric Po
 
 My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
 During my PhD studies, I transitioned to the field of integrated circuit design.
-My current research focuses on time-domain compute-in-memory and its associated energy-efficient hardware design for machine learning and digital signal processing applications.
+My current research focuses on [time-domain compute-in-memory](https://www.ids.rwth-aachen.de/en/research/bionn) and its associated <strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
 I am passionate about low-power neural network accelerators and hardware-software co-design.
 
 I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
@@ -257,16 +257,24 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <li>China National Scholarship, 2017 & 2018</li>
 </ul>  
 
+## Teaching
+<h4 style="margin:0 10px 0;">Supervised Students</h4>
+<ul style="margin:0 0 5px;">
+	<li>Ioannis Andrianopoulos(Bachelor), 2023</li>
+	<li>Marcel Pape(Bachelor), 2023</li>
+	<li>Chen Zhang(Master), 2023</li>
+	<li>Chuang Zeng(Master), 2023</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Lectures</h4>
+<ul style="margin:0 0 5px;">
+	<li>Computer Arithmetic – Fundamental (2019 - 2023), RWTH Aachen University</li>
+</ul>
+
 ## Services
 <ul style="margin:0 0 5px;">
 <li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
 <li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
-</ul>
-
-## Teaching
-<ul style="margin:0 0 5px;">
-<li>Teaching Assistant, Computer Arithmetic – Fundamental (2019, 2023), RWTH Aachen University</li>
-<li>Exam Assistant, Computer Arithmetic – Fundamental (2020 - 2023), RWTH Aachen University</li>
 </ul>  
 
 ## Miscellaneous
