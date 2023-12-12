@@ -12,7 +12,8 @@ During my PhD studies, I transitioned to the field of integrated circuit design.
 My current research focuses on [time-domain compute-in-memory](https://www.ids.rwth-aachen.de/en/research/bionn) and its associated <strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
 I am passionate about low-power neural network accelerators and hardware-software co-design.
 
-I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
+On the hardware side, I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
+On the software side, I am familar with neural network training and quantization.
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
