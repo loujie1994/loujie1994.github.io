@@ -49,7 +49,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">An Energy-Efficient and Area-Efficient Depthwise Separable Convolution Accelerator with Minimal On-Chip Memory Access</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10321918">An Energy-Efficient and Area-Efficient Depthwise Separable Convolution Accelerator with Minimal On-Chip Memory Access</a></div>
       <div class="author">Yi Chen, <strong>Jie Lou</strong>, Christian Lanius, Florian Freye, Johnson Loh, Tobias Gemmeke</div>
       <div class="periodical"><em>IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC), 2023.</em></div>
       <div class="links">
