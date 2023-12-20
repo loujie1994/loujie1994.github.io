@@ -17,6 +17,7 @@ On the software side, I am familar with neural network training and quantization
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
+- **2023.12.20** I was invited to give a talk on <strong>time-domain compute-in-memory</strong> at Peisu Xia Forum hosted by [Institute of Computing Technology (ICT), Chinese Academy of Sciences](http://www.ict.cas.cn/).
 - **2023.10.13** I participated [Beijing Tour for Overseas Talents](https://mp.weixin.qq.com/s/asX-N_U6lZgzlZmjXRyBjg) program.
 - **2023.10.03** Our all-digital TDCIM work accepted by <strong>TCAS-I</strong>.
 - **2023.08.04** One co-authored paper on DSC accelerator accepted by <strong>VLSI-SoC</strong>.
@@ -246,6 +247,7 @@ Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI t
 
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
+<li>2023.12.20 @ Peisu Xia Forum, Beijing, China. Time-Domain Compute-in-Memory</li> 
 <li>2023.06.07 @ GLSVLSI, Knoxville, TN, USA. Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices </li> 
 <li>2022.09.22 @ ESSCIRC, Milan, Italy. All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks with 1.05 POPS/W Energy Efficiency </li> 
 </ul>
