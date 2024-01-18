@@ -17,6 +17,7 @@ On the software side, I am familar with neural network training and quantization
 Currently, I have two chip tapeout experience includes 5 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
 ## News
+- **2024.01.16** One co-authored paper on domain comparison accepted by <strong>ISQED</strong>.
 - **2023.12.20** Invited to give a talk at Peisu Xia Forum hosted by [ICT](http://www.ict.cas.cn/).
 - **2023.10.13** I participated [Beijing Tour for Overseas Talents](https://mp.weixin.qq.com/s/asX-N_U6lZgzlZmjXRyBjg) program.
 - **2023.10.03** Our all-digital TDCIM work accepted by <strong>TCAS-I</strong>.
