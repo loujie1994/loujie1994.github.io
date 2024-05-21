@@ -40,7 +40,7 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">Merits of Time-Domain Computing for VMM - A Quantitative Comparison</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10528682">Merits of Time-Domain Computing for VMM - A Quantitative Comparison</a></div>
       <div class="author">Florian Freye, <strong>Jie Lou</strong>, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>International Symposium on Quality Electronic Design (ISQED), 2024.</em></div>
       <div class="links">
