@@ -299,6 +299,7 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
 	<li>Computer Arithmetic – Fundamental (2019 - 2023), RWTH Aachen University</li>
+	<li>Computer Arithmetic – Advanced Topics (2024), RWTH Aachen University</li>
 </ul>
 
 ## Services
