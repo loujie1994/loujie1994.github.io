@@ -290,9 +290,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 ## Teaching
 <h4 style="margin:0 10px 0;">Supervised Students</h4>
 <ul style="margin:0 0 5px;">
-	<li>Ioannis Andrianopoulos(Bachelor), 2023</li>
-	<li>Marcel Pape(Bachelor), 2023</li>
-	<li>Chen Zhang(Master), 2023</li>
+	<li>Ioannis Andrianopoulos(Bachelor), 2023 - 2024</li>
+	<li>Marcel Pape(Bachelor), 2023 - 2024</li>
+	<li>Chen Zhang(Master), 2023 - 2024</li>
 	<li>Chuang Zeng(Master), 2023</li>
 </ul>
 
@@ -300,10 +300,12 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <ul style="margin:0 0 5px;">
 	<li>Computer Arithmetic – Fundamental (2019 - 2023), RWTH Aachen University</li>
 	<li>Computer Arithmetic – Advanced Topics (2024), RWTH Aachen University</li>
+	<li>VLSI Design for Digital Signal Processing - Fundamentals (2024), RWTH Aachen University</li>
 </ul>
 
 ## Services
 <ul style="margin:0 0 5px;">
+<li>Reviewer of IEEE Journal on Exploratory Solid-State Computational Devices and Circuits (JXCDC)</li>
 <li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
 <li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
 </ul>  
