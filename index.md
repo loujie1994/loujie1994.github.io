@@ -41,7 +41,7 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href=""> EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10737823"> EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer</a></div>
       <div class="author">Yi Chen, <strong>Jie Lou</strong>, Malte Wabnitz, Johnson Loh, Tobias Gemmeke</div>
       <div class="periodical"><em>2024 IEEE 37th International System-on-Chip Conference (SOCC), 2024.</em></div>
       <div class="links">
