@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD student at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
 I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019 and 
 B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
 
@@ -13,10 +13,10 @@ My current research focuses on [time-domain compute-in-memory](https://www.ids.r
 I am passionate about low-power neural network accelerators and hardware-software co-design.
 
 On the hardware side, I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
-On the software side, I am familar with neural network training and quantization.
+On the software side, I am familar with neural network training, pruning and quantization.
 Currently, I have three chip tapeout experience with multiple designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market. Please feel free to contact me if you are interested.</strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC design engineer. Please feel free to reach out if you are interested.</strong>
 
 ## News
 - **2024.06.21** One co-authored paper on dual-engine accelerator accepted by <strong>SOCC</strong>.
