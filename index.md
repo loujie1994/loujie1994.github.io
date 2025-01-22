@@ -19,6 +19,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
 
 ## News
+- **2025.01.20** Our all-digital TDCIM CNN work accepted by <strong>ISCAS</strong>.
 - **2024.06.21** One co-authored paper on dual-engine accelerator accepted by <strong>SOCC</strong>.
 - **2024.04.08** We have submitted the 3rd test chip for fabrication using 22nm FDSOI technology.
 - **2024.01.16** One co-authored paper on domain comparison accepted by <strong>ISQED</strong>.
@@ -38,6 +39,30 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="">An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm</a></div>
+      <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
+      <div class="periodical"><em>IEEE International Symposium on Circuits and Systems (ISCAS), 2025.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://link.springer.com/book/10.1007/978-3-031-70947-0">A Unified and Energy-Efficient Depthwise Separable Convolution Accelerator</a></div>
+      <div class="author">Yi Chen, <strong>Jie Lou</strong>, Christian Lanius, Florian Freye, Johnson Loh, Tobias Gemmeke</div>
+      <div class="periodical"><em>Springer Cham, 2024.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
