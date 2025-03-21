@@ -19,7 +19,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
 
 ## News
-- **2025.03.15** One co-authored paper on group-wise uniform pruning DSC accelerator accepted by <strong>COOL Chips</strong>.
+- **2025.03.15** One co-authored paper on uniform pruning accelerator accepted by <strong>COOL Chips</strong>.
 - **2025.01.22** My PhD thesis research accepted by <strong>DATE PhD Forum</strong>.
 - **2025.01.20** Our all-digital TDCIM CNN work accepted by <strong>ISCAS</strong>.
 - **2024.06.21** One co-authored paper on dual-engine accelerator accepted by <strong>SOCC</strong>.
