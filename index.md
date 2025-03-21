@@ -19,6 +19,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
 
 ## News
+- **2025.03.15** One co-authored paper on group-wise uniform pruning DSC accelerator accepted by <strong>COOL Chips</strong>.
 - **2025.01.22** My PhD thesis research accepted by <strong>DATE PhD Forum</strong>.
 - **2025.01.20** Our all-digital TDCIM CNN work accepted by <strong>ISCAS</strong>.
 - **2024.06.21** One co-authored paper on dual-engine accelerator accepted by <strong>SOCC</strong>.
@@ -40,6 +41,18 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="">GUPA: Group-Wise Uniform Pruning Accelerator for Depthwise Separable Convolution</a></div>
+      <div class="author">Yi Chen, Malte Wabnitz, <strong>Jie Lou</strong>, Christian Lanius, Tobias Gemmeke</div>
+      <div class="periodical"><em>IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS), 2025.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
