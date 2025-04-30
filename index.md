@@ -19,6 +19,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
 
 ## News
+- **2025.04.30** Our mixed-fidelity TDCIM CNN work accepted by <strong>GLSVLSI</strong>.
 - **2025.03.15** One co-authored paper on uniform pruning accelerator accepted by <strong>COOL Chips</strong>.
 - **2025.01.22** My PhD thesis research accepted by <strong>DATE PhD Forum</strong>.
 - **2025.01.20** Our all-digital TDCIM CNN work accepted by <strong>ISCAS</strong>.
@@ -41,6 +42,18 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="">A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications</a></div>
+      <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
+      <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2025.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
