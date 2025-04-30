@@ -48,7 +48,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="">A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications</a></div>
-      <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
+      <div class="author"><strong>Jie Lou*</strong>, Florian Freye*, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2025.</em></div>
       <div class="links">
     </div>
