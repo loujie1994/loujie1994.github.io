@@ -59,7 +59,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">GUPA: Group-Wise Uniform Pruning Accelerator for Depthwise Separable Convolution</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11018601">GUPA: Group-Wise Uniform Pruning Accelerator for Depthwise Separable Convolution</a></div>
       <div class="author">Yi Chen, Malte Wabnitz, <strong>Jie Lou</strong>, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS), 2025.</em></div>
       <div class="links">
