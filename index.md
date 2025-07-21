@@ -327,7 +327,9 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
-<li>2023.12.20 @ Peisu Xia Forum, Beijing, China. Time-Domain Compute-in-Memory</li> 
+<li>2025.06.30 @ GLSVLSI, New Orleans, LA, USA. A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications </li> 
+<li>2025.05.26 @ ISCAS, London, UK. An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm </li> 
+<li>2023.12.20 @ Peisu Xia Forum, Beijing, China. Time-Domain Compute-in-Memory </li> 
 <li>2023.06.07 @ GLSVLSI, Knoxville, TN, USA. Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices </li> 
 <li>2022.09.22 @ ESSCIRC, Milan, Italy. All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks with 1.05 POPS/W Energy Efficiency </li> 
 </ul>
