@@ -27,7 +27,6 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 - **2024.04.08** We have submitted the 3rd test chip for fabrication using 22nm FDSOI technology.
 - **2024.01.16** One co-authored paper on domain comparison accepted by <strong>ISQED</strong>.
 - **2023.12.20** Invited to give a talk at Peisu Xia Forum hosted by [ICT](http://www.ict.cas.cn/).
-- **2023.10.13** I participated [Beijing Tour for Overseas Talents](https://mp.weixin.qq.com/s/asX-N_U6lZgzlZmjXRyBjg) program.
 - **2023.10.03** Our all-digital TDCIM work accepted by <strong>TCAS-I</strong>.
 - **2023.08.04** One co-authored paper on DSC accelerator accepted by <strong>VLSI-SoC</strong>.
 - **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
@@ -47,7 +46,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications</a></div>
+      <div class="title"><a href="https://dl.acm.org/doi/full/10.1145/3716368.3735161">A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications</a></div>
       <div class="author"><strong>Jie Lou*</strong>, Florian Freye*, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2025.</em></div>
       <div class="links">
@@ -71,7 +70,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11043778">An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm</a></div>
       <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
       <div class="periodical"><em>IEEE International Symposium on Circuits and Systems (ISCAS), 2025.</em></div>
       <div class="links">
