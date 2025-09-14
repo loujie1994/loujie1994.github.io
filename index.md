@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, with expected graduation in Q4 2025, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
 I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
 
 <!--
@@ -19,7 +19,9 @@ I am passionate about low-power neural network accelerators and hardware-softwar
 
 On the hardware side, I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
 On the software side, I am familar with neural network training, pruning and quantization.
-Currently, I have three chip tapeout experience with multiple designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
+Currently, I have three chip tapeout experience with multiple designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach. Please feel free to reach out if you are interested.</strong>
+
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am graduating in Q4 2025 and look forward to new experiences and challenges.
 
 <!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
@@ -38,9 +40,6 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 - **2023.08.04** One co-authored paper on DSC accelerator accepted by <strong>VLSI-SoC</strong>.
 - **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
 - **2023.06.07** I presented our scalable TDCIM BNN work at the <strong>GLSVLSI</strong> in Knoxville, TN, USA!
-<!--
-- **2022.12.21** Check out <strong>Time Domain Compute-in-Memory</strong> news in [NEUROTEC](https://www.neurotec.org/en/aktuelles/memristive-devices-for-time-domain-compute-in-memory) project.
--->
 - **2022.09.22** I presented our all-digital TDCIM BNN work at the <strong>ESSCIRC</strong> in Milan, Italy!
 
 
