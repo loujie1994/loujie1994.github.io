@@ -3,9 +3,14 @@ layout: homepage
 ---
 
 ## About Me
+I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, with expected graduation in Q4 2025, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
+
+<!--
 I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
 I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019 and 
 B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
+-->
 
 My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
 During my PhD studies, I transitioned to the field of integrated circuit design.
@@ -16,22 +21,26 @@ On the hardware side, I am proficient in ASIC design flow from transistor level 
 On the software side, I am familar with neural network training, pruning and quantization.
 Currently, I have three chip tapeout experience with multiple designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
 
+<!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
+-->
 
 ## News
+- **2025.09.05** One co-authored paper on Conformer accelerator accepted by <strong>ASP-DAC</strong>.
 - **2025.04.30** Our mixed-fidelity TDCIM CNN work accepted by <strong>GLSVLSI</strong>.
 - **2025.03.15** One co-authored paper on uniform pruning accelerator accepted by <strong>COOL Chips</strong>.
 - **2025.01.22** My PhD thesis research accepted by <strong>DATE PhD Forum</strong>.
 - **2025.01.20** Our all-digital TDCIM CNN work accepted by <strong>ISCAS</strong>.
 - **2024.06.21** One co-authored paper on dual-engine accelerator accepted by <strong>SOCC</strong>.
-- **2024.04.08** We have submitted the 3rd test chip for fabrication using 22nm FDSOI technology.
 - **2024.01.16** One co-authored paper on domain comparison accepted by <strong>ISQED</strong>.
 - **2023.12.20** Invited to give a talk at Peisu Xia Forum hosted by [ICT](http://www.ict.cas.cn/).
 - **2023.10.03** Our all-digital TDCIM work accepted by <strong>TCAS-I</strong>.
 - **2023.08.04** One co-authored paper on DSC accelerator accepted by <strong>VLSI-SoC</strong>.
 - **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
 - **2023.06.07** I presented our scalable TDCIM BNN work at the <strong>GLSVLSI</strong> in Knoxville, TN, USA!
+<!--
 - **2022.12.21** Check out <strong>Time Domain Compute-in-Memory</strong> news in [NEUROTEC](https://www.neurotec.org/en/aktuelles/memristive-devices-for-time-domain-compute-in-memory) project.
+-->
 - **2022.09.22** I presented our all-digital TDCIM BNN work at the <strong>ESSCIRC</strong> in Milan, Italy!
 
 
@@ -41,6 +50,18 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="">ConfASR: A Conformer Block Accelerator for Speech Recognition Optimized for Edge Devices</a></div>
+      <div class="author">Malte Wabnitz, Max Nilovic, Finn Scholz, Dominik Friedrich, Christian Lanius, <strong>Jie Lou</strong>, Tobias Gemmeke</div>
+      <div class="periodical"><em>Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -363,6 +384,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <li>Reviewer of IEEE Journal on Exploratory Solid-State Computational Devices and Circuits (JXCDC)</li>
 <li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
 <li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
+<li>Reviewer of Engineering Applications of Artificial Intelligence (EAAI)</li>
 </ul>  
 
 ## Miscellaneous
