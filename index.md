@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I am a PhD researcher at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
 I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
 
 <!--
