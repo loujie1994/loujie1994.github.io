@@ -28,6 +28,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 -->
 
 ## News
+- **2025.12.01** I have successfully passed my Dr.-Ing. doctoral examination.
 - **2025.09.05** One co-authored paper on Conformer accelerator accepted by <strong>ASP-DAC</strong>.
 - **2025.04.30** Our mixed-fidelity TDCIM CNN work accepted by <strong>GLSVLSI</strong>.
 - **2025.03.15** One co-authored paper on uniform pruning accelerator accepted by <strong>COOL Chips</strong>.
