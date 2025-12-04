@@ -21,7 +21,7 @@ On the hardware side, I am proficient in ASIC design flow from transistor level 
 On the software side, I am familar with neural network training, pruning and quantization.
 Currently, I have three chip tapeout experience with multiple designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach. 
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am graduating in Q4 2025 and look forward to new experiences and challenges. Please feel free to reach out if you are interested.</strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and look forward to new experiences and challenges. Please feel free to reach out if you are interested.</strong>
 
 <!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market and seeking opportunities as a research scientist or ASIC/SoC design engineer. Please feel free to reach out if you are interested.</strong>
