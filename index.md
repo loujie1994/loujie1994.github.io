@@ -337,23 +337,25 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 </div>
 
 ## Internship Experience
-<h4 style="margin:0 10px 0;">Institute of Computing Technology, Chinese Academy of Sciences</h4>
+<h4 style="margin:0 10px 0;">Institute of Computing Technology, Chinese Academy of Sciences, Beijing</h4>
 <ul style="margin:0 0 5px;">
   <li>2019.05 - 2019.07</li>
-  <li>Research on SV/UVM-based RISC-V processor verification method</li>
+  <li>Learned the Rocket Chip Generator and the Chisel hardware language</li>
+  <li>Developed an uncached, lightweight TileLink (TL-UL) interface</li>  
 </ul>
 
 <h4 style="margin:0 10px 0;">Analog Devices, Inc., Beijing</h4>
 <ul style="margin:0 0 5px;">
   <li>2017.12 - 2018.05</li>
-  <li>Build module-level verification platform based on UVM</li>
-  <li>Develop testcases & covergroups that align with the verification plan</li>
+  <li>Developed SPI & UART protocols verification environments using SystemVerilog/UVM</li>
+  <li>Created testcases, assertions, and functional covergroups for module level verification</li>
 </ul>
 
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
 <li>2025.06.30 @ GLSVLSI, New Orleans, LA, USA. A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications </li> 
 <li>2025.05.26 @ ISCAS, London, UK. An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm </li> 
+<li>2025.03.31 @ DATE, Lyon, France. Low-Power Time-Domain Hardware Accelerator for Edge Computing </li> 
 <li>2023.12.20 @ Peisu Xia Forum, Beijing, China. Time-Domain Compute-in-Memory </li> 
 <li>2023.06.07 @ GLSVLSI, Knoxville, TN, USA. Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices </li> 
 <li>2022.09.22 @ ESSCIRC, Milan, Italy. All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks with 1.05 POPS/W Energy Efficiency </li> 
@@ -378,17 +380,19 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
-	<li>Computer Arithmetic – Fundamental (2019 - 2023), RWTH Aachen University</li>
-	<li>Computer Arithmetic – Advanced Topics (2024), RWTH Aachen University</li>
-	<li>VLSI Design for Digital Signal Processing - Fundamentals (2024), RWTH Aachen University</li>
+	<li>Artificial Neural Networks for Line Tracking with Braitenberg Vehicles (2025), RWTH Aachen University</li>
+	<li>VLSI Design for Digital Signal Processing - Fundamentals (2024, 2025), RWTH Aachen University</li>
+	<li>Computer Arithmetic – Fundamental (2019, 2023), RWTH Aachen University</li>	
 </ul>
 
 ## Services
 <ul style="margin:0 0 5px;">
 <li>Reviewer of IEEE Journal on Exploratory Solid-State Computational Devices and Circuits (JXCDC)</li>
 <li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
+<li>Reviewer of IEEE International Symposium on Circuits and Systems (ISCAS)</li>
 <li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
 <li>Reviewer of Engineering Applications of Artificial Intelligence (EAAI)</li>
+<li>Reviewer of Integration, the VLSI Journal</li>
 </ul>  
 
 ## Miscellaneous
