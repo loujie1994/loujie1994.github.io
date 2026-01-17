@@ -14,8 +14,12 @@ B.S. degree in Electrical Engineering and Automation from [Northeast Electric Po
 
 My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
 During my PhD studies, I transitioned to the field of integrated circuit design.
+My current research focuses on energy-efficient hardware design for machine learning and digital signal processing applications.
+
+<!--
 My current research focuses on [time-domain compute-in-memory](https://www.ids.rwth-aachen.de/en/research/bionn) and its associated <strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
 I am passionate about low-power neural network accelerators and hardware-software co-design.
+-->
 
 On the hardware side, I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
 On the software side, I am familar with neural network training, pruning and quantization.
