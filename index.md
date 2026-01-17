@@ -14,7 +14,7 @@ B.S. degree in Electrical Engineering and Automation from [Northeast Electric Po
 
 My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
 During my PhD studies, I transitioned to the field of integrated circuit design.
-My current research focuses on </strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
+My current research focuses on <strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
 
 <!--
 My current research focuses on [time-domain compute-in-memory](https://www.ids.rwth-aachen.de/en/research/bionn) and its associated <strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
