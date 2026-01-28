@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a scientific researcher at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I am a scientific researcher at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany.
 I received my PhD (Dr.-Ing.) from RWTH Aachen University, Germany, in 2026, and my M.Eng. from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
 
 <!--
@@ -32,7 +32,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 -->
 
 ## News
-- **2026.01.26** I officially become Dr.Lou!
+- **2026.01.26** I officially become Dr. Lou!
 - **2025.12.01** I have successfully passed my Dr.-Ing. doctoral examination.
 - **2025.09.05** One co-authored paper on Conformer accelerator accepted by <strong>ASP-DAC</strong>.
 - **2025.04.30** Our mixed-fidelity TDCIM CNN work accepted by <strong>GLSVLSI</strong>.
