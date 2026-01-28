@@ -56,6 +56,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
 
+<!--
 <li>
 <div class="pub-row">
   </div>
@@ -67,6 +68,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
     </div>
   </div>
 </li>
+-->
 
 <li>
 <div class="pub-row">
