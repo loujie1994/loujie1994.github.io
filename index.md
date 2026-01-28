@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD researcher at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
-I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
+I am a scientific researcher at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I received my PhD (Dr.-Ing.) from RWTH Aachen University, Germany, in 2026, and my M.Eng. from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
 
 <!--
 I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
@@ -32,6 +32,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 -->
 
 ## News
+- **2026.01.26** I officially become Dr.Lou!
 - **2025.12.01** I have successfully passed my Dr.-Ing. doctoral examination.
 - **2025.09.05** One co-authored paper on Conformer accelerator accepted by <strong>ASP-DAC</strong>.
 - **2025.04.30** Our mixed-fidelity TDCIM CNN work accepted by <strong>GLSVLSI</strong>.
@@ -54,6 +55,18 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0; font-size: 18px;">During PhD</h4>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://publications.rwth-aachen.de/record/1023746/files/1023746.pdf">Time-Domain Computing in Hardware Accelerators for Edge Applications</a></div>
+      <div class="author"><strong>Jie Lou</strong></div>
+      <div class="periodical"><em>RWTH Aachen University, 2026.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <li>
 <div class="pub-row">
