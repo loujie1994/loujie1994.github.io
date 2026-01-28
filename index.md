@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I am a scientific researcher at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany.
-I received my PhD (Dr.-Ing.) from RWTH Aachen University, Germany, in 2026, and my M.Eng. from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019. 
+I received my PhD (Dr.-Ing.) from RWTH Aachen University, Germany, in 2026, and my M.Eng. from Tianjin University, China in 2019. 
 
 <!--
 I am a PhD candidate at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
