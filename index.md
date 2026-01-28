@@ -385,6 +385,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 </ul>  
 
 ## Teaching
+<!--
 <h4 style="margin:0 10px 0;">Supervised Students</h4>
 <ul style="margin:0 0 5px;">
 	<li>Ioannis Andrianopoulos(Bachelor), 2023 - 2024</li>
@@ -392,6 +393,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 	<li>Chen Zhang(Master), 2023 - 2024</li>
 	<li>Chuang Zeng(Master), 2023</li>
 </ul>
+-->
 
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
