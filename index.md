@@ -408,8 +408,12 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
 <li>Reviewer of IEEE International Symposium on Circuits and Systems (ISCAS)</li>
 <li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
+<li>Reviewer of IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)</li>
 <li>Reviewer of Engineering Applications of Artificial Intelligence (EAAI)</li>
 <li>Reviewer of Integration, the VLSI Journal</li>
+<li>Reviewer of Results in Engineering</li>
+<li>Reviewer of Journal of Systems Architecture</li>
+<li>Reviewer of Sustainable Computing: Informatics and Systems</li>
 </ul>  
 
 ## Miscellaneous
