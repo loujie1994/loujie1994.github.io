@@ -74,7 +74,7 @@ Currently, I have three chip tapeout experience with multiple designs on 22nm FD
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="">ConfASR: A Conformer Block Accelerator for Speech Recognition Optimized for Edge Devices</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/11420567">ConfASR: A Conformer Block Accelerator for Speech Recognition Optimized for Edge Devices</a></div>
       <div class="author">Malte Wabnitz, Max Nilovic, Finn Scholz, Dominik Friedrich, Christian Lanius, <strong>Jie Lou</strong>, Tobias Gemmeke</div>
       <div class="periodical"><em>Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.</em></div>
       <div class="links">
